@@ -42,42 +42,6 @@ section {
   border-radius: 8px;
 }
 
-.steps {
-  display: flex;
-  gap: 20px;
-  justify-content: space-around;
-  flex-wrap: wrap;
-}
 
-.step {
-  text-align: center;
-  width: 200px;
-}
 
-.step img {
-  width: 80px;
-  height: auto;
-  margin-bottom: 10px;
-}
 
-.trust ul {
-  list-style: none;
-  padding: 0;
-}
-
-.trust li {
-  background-color: #e8e8e8;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-}
-
-.button {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #ff9900;
-  color: white;
-  border-radius: 5px;
-  text-decoration: none;
-  font-weight: bold;
-}
